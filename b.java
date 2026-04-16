@@ -1,1 +1,1 @@
-class B {}
+class B {int x=5;}
